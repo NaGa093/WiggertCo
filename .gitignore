@@ -51,5 +51,9 @@ Temporary Items
 *.suo
 *.cod
 *.user
-WiggertCo/WiggertCoClientApplication/obj/
-WiggertCo/WiggertCoClientApplication/bin/
+WiggertCoClientApplication/obj/
+WiggertCoClientApplication/bin/
+WiggertCoServiceApplication/bin/
+WiggertCoServiceApplication/obj/
+CommonObjects/bin
+CommonObjects/obj
