@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# NaGa
+*.exe
+*.suo
+*.cod
+*.user
+WiggertCo/WiggertCoClientApplication/obj/
+WiggertCo/WiggertCoClientApplication/bin/
